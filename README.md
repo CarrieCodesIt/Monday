@@ -1,3 +1,3 @@
 # Monday
-## readme copy
+## We need coffee
 Git practice repo
